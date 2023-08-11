@@ -115,7 +115,6 @@ public class EmployeeController {
     public Result<String> startOrStop(@PathVariable Integer status, long id) {
 
         employeeService.startOrStop(status, id);
-
         return Result.success();
     }
 
