@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/sky-server/src/main/java/com/sky/mapper/CategoryMapper.java" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sky-server/src/main/java/com/sky/mapper/EmployeeMapper.java" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sky-server/src/main/resources/mapper/CategoryMapper.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sky-server/src/main/resources/mapper/DishFlavorMapper.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sky-server/src/main/resources/mapper/DishMapper.xml" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/sky-server/src/main/resources/mapper/EmployeeMapper.xml" dialect="MySQL" />
   </component>
 </project>
