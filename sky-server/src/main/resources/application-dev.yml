@@ -8,7 +8,7 @@ sky:
     password: ybwell
 
   alioss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tGdPKNxvczWb9cLLD3A
-    access-key-secret: UxKe3HybSgtZvRDZsVlUxa82k0L6Jb
-    bucket-name: yb-sky-take-out
+    endpoint:
+    access-key-id: 
+    access-key-secret: 
+    bucket-name: 
